@@ -9,3 +9,4 @@ INSERT INTO sadTable (id, lokiec) VALUES (8, 'wybity');
 INSERT INTO sadTable (id, lokiec) VALUES (9, 'metalowy');
 INSERT INTO sadTable (id, lokiec) VALUES (10, 'cyberpunk');
 INSERT INTO sadTable (id, lokiec) VALUES (11, 'bioniczny');
+
