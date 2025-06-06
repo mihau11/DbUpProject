@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="dbup" Version="5.0.41" />
-	<EmbeddedResource Include="Scripts\*.sql" />
+	<EmbeddedResource Include="Scripts\**\*.sql" />
   </ItemGroup>
 
 </Project>

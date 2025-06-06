@@ -1,0 +1,2 @@
+ALTER TABLE bossyTable
+ADD imie VARCHAR(20);

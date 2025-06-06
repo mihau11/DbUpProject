@@ -1,0 +1,11 @@
+INSERT INTO happyTable (id, kolano) VALUES (1, 'prawe');
+INSERT INTO happyTable (id, kolano) VALUES (2, 'lewe');
+INSERT INTO happyTable (id, kolano) VALUES (3, 'skacz¹ce');
+INSERT INTO happyTable (id, kolano) VALUES (4, 'weso³e');
+INSERT INTO happyTable (id, kolano) VALUES (5, 'zwinne');
+INSERT INTO happyTable (id, kolano) VALUES (6, 'gumowe');
+INSERT INTO happyTable (id, kolano) VALUES (7, 'kolorowe');
+INSERT INTO happyTable (id, kolano) VALUES (8, 'sprawne');
+INSERT INTO happyTable (id, kolano) VALUES (9, 'szybkie');
+INSERT INTO happyTable (id, kolano) VALUES (10, 'taneczne');
+INSERT INTO happyTable (id, kolano) VALUES (11, 'titanowe');
