@@ -1,0 +1,23 @@
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (1, 'lewa', 5);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (2, 'prawa', 3);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (3, 'lewa', 5);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (4, 'prawa', 7);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (5, 'lewa', 3);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (6, 'prawa', 9);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (7, 'lewa', 1);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (8, 'prawa', 5);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (9, 'lewa', 3);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (10, 'prawa', 11);
+INSERT INTO lazyTable (id, noga, kolanoId) VALUES (11, 'lewa', 1);
+
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (1, 'lewa', 1);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (2, 'prawa', 2);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (3, 'g³ówna', 3);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (4, 'zapasowa', 4);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (5, 'lewa_góra', 5);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (6, 'prawa_dó³', 2);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (7, 'robotyczna', 6);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (8, 'sztywna', 7);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (9, 'precyzyjna', 8);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (10, 'czysta', 4);
+INSERT INTO busyTable (id, reka, lokiecId) VALUES (11, 'brudna', 1);
