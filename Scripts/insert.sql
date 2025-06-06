@@ -1,0 +1,11 @@
+INSERT INTO sadTable (id, lokiec) VALUES (1, 'lewy');
+INSERT INTO sadTable (id, lokiec) VALUES (2, 'prawy');
+INSERT INTO sadTable (id, lokiec) VALUES (3, 'zgiêty');
+INSERT INTO sadTable (id, lokiec) VALUES (4, 'prosty');
+INSERT INTO sadTable (id, lokiec) VALUES (5, 'z³amany');
+INSERT INTO sadTable (id, lokiec) VALUES (6, 'opuchniêty');
+INSERT INTO sadTable (id, lokiec) VALUES (7, 'skrêcony');
+INSERT INTO sadTable (id, lokiec) VALUES (8, 'wybity');
+INSERT INTO sadTable (id, lokiec) VALUES (9, 'metalowy');
+INSERT INTO sadTable (id, lokiec) VALUES (10, 'cyberpunk');
+INSERT INTO sadTable (id, lokiec) VALUES (11, 'bioniczny');

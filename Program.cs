@@ -14,11 +14,6 @@ static int Main(string[] args)
             .WithScriptsEmbeddedInAssembly(Assembly.GetExecutingAssembly())
             .LogToConsole()
             .Build();
-    Assembly assembly = Assembly.GetExecutingAssembly();
-    assembly.GetFiles().ToList().ForEach(file =>
-    {
-        Console.WriteLine($"File: {file.Name} - Size: {file.Length} bytes");
-    });
 
     var result = upgrader.PerformUpgrade();
 
